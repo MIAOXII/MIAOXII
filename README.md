@@ -23,7 +23,12 @@
 
 <div align="center">
 
-<h2>Well, hello there! Miaoxii here. ♡</h2>
+<div align="center">
+   <br>   
+    <br/>
+    <br/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Well%2C+hello+there!+Miaoxii+here%E2%99%A1" alt="Typing SVG" /></a>
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2200&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&height=40&lines=Future+Full+Stack+Developer;Passionate+about+learning+and+exploring+the+digital+world." />
 
