@@ -1,4 +1,4 @@
-<img src="banner.gif" width="100%" alt="My animated intro">
+<img src="readme_preview.gif" width="100%" alt="My animated intro">
 
 
 <div align="center">
@@ -21,16 +21,19 @@
   <img src="hello.png" width="120%">
 </p>
 
+<div align="center">
 
-<h2 align="center">
-  M I A O X I I
-</h2>
+<h2>Well, hello there! Miaoxii here. ♡</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2200&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&height=40&lines=Future+Full+Stack+Developer;Passionate+about+learning+and+exploring+the+digital+world." />
+
+</div>
 
 <div align="left">
 
 <img align="right" src="ana.png" width="220">
 
-<h3> ✧ About Me</h3>
+<h3>  About Me</h3>
 
 Hey! I'm Miaoxii ✨
 
