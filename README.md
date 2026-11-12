@@ -30,32 +30,44 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Well%2C+hello+there!+Miaoxii+here%E2%99%A1" alt="Typing SVG" /></a>
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2200&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&height=40&lines=Future+Full+Stack+Developer;Passionate+about+learning+and+exploring+the+digital+world." />
+<img src="https://readme-typing-svg.demolab.com?font=Itim&size=21&duration=2200&pause=1400&color=E0DFF1&center=true&vCenter=true&repeat=true&width=750&height=90&lines=Future+Full+Stack+Developer;A+girl+fascinated+by+all+things+tech-related." />
+
 
 </div>
 
 <div align="left">
 
-<img align="right" src="ana.png" width="220">
+<img align="right" src="ana.png" width="280">
+<div align="center">
+<h3> A Little Glimpse of Me</h3>
+<hr></div>
+<p><strong> Psst… let me introduce myself! ♡</strong></p>
 
-<h3>  About Me</h3>
+<p>
+Anyways, I'm not rocket science, just a girl who loves
+<strong>coding & everything techy!</strong>
+</p>
 
-Hey! I'm Miaoxii ✨
+<p>
+Currently spending my days learning to build things on the internet
+and my nights thinking about things I probably shouldn't be debugging.
+</p>
 
-A passionate Full Stack Developer in progress.
-Currently learning, building, and exploring the world of technology.
+<p>
+I'm basically a <strong>Full Stack Developer in the making</strong>,
+just waiting for my skills to catch up with my ambitions.
+</p>
 
-  Currently learning Full Stack Development
-  Exploring HTML, CSS, JavaScript & React
-  Learning Git, GitHub & modern development workflows
-  Interested in AI, automation & creative coding
-  Love combining creativity with technology
-  Always learning something new
-  Turning ideas into interactive digital experiences
-✉️Open to collaboration and exciting projects
+<p>
+<em> The title is loading… please don't unplug me.</em> 🎀
+</p>
+
+<p>
+Future me is already proud. Present me is busy
+<strong>learning, growing & making mistakes</strong>…
+because getting things wrong is just part of getting somewhere. 
+</p>
 
 <br clear="right">
 
 </div>
-
-
