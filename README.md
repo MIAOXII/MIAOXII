@@ -48,24 +48,13 @@ Anyways, I'm not rocket science, just a girl who loves
 <strong>coding & everything techy!</strong>
 </p>
 
+
 <p>
-Currently spending my days learning to build things on the internet
-and my nights thinking about things I probably shouldn't be debugging.
+Well, I'm a Frontend Developer passionate about building modern, responsive, and visually appealing websites.
 </p>
 
 <p>
-I'm basically a <strong>Full Stack Developer in the making</strong>,
-just waiting for my skills to catch up with my ambitions.
-</p>
-
-<p>
-<em> The title is loading… please don't unplug me.</em> 🎀
-</p>
-
-<p>
-Future me is already proud. Present me is busy
-<strong>learning, growing & making mistakes</strong>…
-because getting things wrong is just part of getting somewhere. 
+I specialize in creating clean user interfaces and interactive web experiences using HTML, CSS, and JavaScript.
 </p>
 
 <br clear="right">
