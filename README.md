@@ -17,9 +17,7 @@
 
 
 
-<p align="center">
-  <img src="hello.png" width="120%" alt="Hello World">
-</p>
+
 
 <div align="center">
 
