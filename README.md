@@ -42,6 +42,8 @@
 <img src="https://komarev.com/ghpvc/?username=MIAOXII&label=Profile%20Views&color=ff8fc7&style=for-the-badge" alt="Profile views">
 <img src="https://img.shields.io/github/followers/MIAOXII?label=Followers&style=for-the-badge&color=b388ff" alt="GitHub followers">
 
+<img src="https://img.shields.io/github/stars/MIAOXII?style=for-the-badge&logo=github&label=Total%20Stars&color=ff8fc7" alt="Total Stars">
+
 </div>
 
 <div align="left">
@@ -105,6 +107,32 @@ I specialize in creating clean user interfaces and interactive web experiences u
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIAOXII&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top languages">
   <br>
   <img src="https://streak-stats.demolab.com?user=MIAOXII&theme=radical&hide_border=true&background=00000000" alt="GitHub streak">
+</div>
+
+<hr>
+
+
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <h3>🏆 GitHub Achievements</h3>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=MIAOXII&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub Trophies">
+
+  <br><br>
+
+  <img src="https://img.shields.io/github/stars/MIAOXII?style=for-the-badge&logo=github&label=Total%20Stars&color=ff8fc7" alt="Total Stars">
+
+  <img src="https://img.shields.io/github/forks/MIAOXII?style=for-the-badge&logo=github&label=Total%20Forks&color=b388ff" alt="Total Forks">
+</div>
+
+<hr>
+
+<!-- Collaboration -->
+<div align="center">
+  <h3>🤝 Open to Collaboration</h3>
+  <p>Always excited to connect, learn and build something amazing together!</p>
+  <img src="https://img.shields.io/badge/Open%20To-Collaboration-ff8fc7?style=for-the-badge&logo=github&logoColor=white" alt="Open to collaboration">
 </div>
 
 <hr>
